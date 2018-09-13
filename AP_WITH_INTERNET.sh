@@ -31,7 +31,7 @@ subnet 192.168.4.0 netmask 255.255.255.0 {
   option routers 192.168.4.1;
   default-lease-time 600;
   max-lease-time 7200;
-  option domain-name "homez";
+  option domain-name "iotz";
   option domain-name-servers 8.8.8.8, 8.8.4.4;
 }
 EOT
